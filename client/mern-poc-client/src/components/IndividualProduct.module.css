@@ -1,0 +1,21 @@
+.indivCard_parent{
+    border: 1px solid rgb(0, 0, 0);
+    display: grid;
+    grid-template-columns: 50% 50%;
+    width: 80%;
+    margin: 50px auto;
+    border-radius: 10px 10px 10px 10px;
+    border: 5px double #dcdcdc;
+}
+
+.indivCard_left{
+    border: 1px solid red;
+}
+.indivCard_left img{
+    width: 80%;
+    border-radius: 20px;
+}
+
+.indivCard_right{
+    border: 1px solid rgb(9, 255, 0);
+}
